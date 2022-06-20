@@ -1,0 +1,15 @@
+E:\My projects\CommandPattern\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.AssemblyReference.cache
+E:\My projects\CommandPattern\CommandPattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\My projects\CommandPattern\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+E:\My projects\CommandPattern\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+E:\My projects\CommandPattern\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+E:\My projects\CommandPattern\CommandPattern\bin\Debug\net6.0\CommandPattern.exe
+E:\My projects\CommandPattern\CommandPattern\bin\Debug\net6.0\CommandPattern.deps.json
+E:\My projects\CommandPattern\CommandPattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+E:\My projects\CommandPattern\CommandPattern\bin\Debug\net6.0\CommandPattern.dll
+E:\My projects\CommandPattern\CommandPattern\bin\Debug\net6.0\CommandPattern.pdb
+E:\My projects\CommandPattern\CommandPattern\obj\Debug\net6.0\CommandPattern.dll
+E:\My projects\CommandPattern\CommandPattern\obj\Debug\net6.0\refint\CommandPattern.dll
+E:\My projects\CommandPattern\CommandPattern\obj\Debug\net6.0\CommandPattern.pdb
+E:\My projects\CommandPattern\CommandPattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
+E:\My projects\CommandPattern\CommandPattern\obj\Debug\net6.0\ref\CommandPattern.dll
