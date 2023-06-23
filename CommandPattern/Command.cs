@@ -1,9 +1,4 @@
 ﻿using CommandPattern.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CommandPattern
 {
@@ -20,7 +15,7 @@ namespace CommandPattern
 
         public void Execute()
         {
-            Console.WriteLine($"Comando Executado {this.Id} - {this.Name}!");
+            Console.WriteLine($"Comando Executado {Id} - {Name}!");
         }
     }
 }

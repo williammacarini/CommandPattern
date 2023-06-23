@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "f9V0TM9wOZPFo9QRgodKz49QlAZXFTbBt3pQeEGrga2RIFDs2WnFmVUY+oMwhWHclbvNQfJny4lttN/bUBoLmg==",
+  "dgSpecHash": "M9fBJTMZXOV19Myr/lFpMzMAf6hVsF3M+raSKrcctfoyVcmgTS6Ix4cifyHstx66t3iMWgIjrlRko0sV0jQcQg==",
   "success": true,
-  "projectFilePath": "E:\\My projects\\CommandPattern\\CommandPattern\\CommandPattern.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Repository\\GitHub\\CommandPattern\\CommandPattern\\CommandPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\william.macarini\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.18\\microsoft.windowsdesktop.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\william.macarini\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.18\\microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\william.macarini\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.18\\microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\william.macarini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.18\\microsoft.netcore.app.host.win-x64.6.0.18.nupkg.sha512"
+  ],
   "logs": []
 }
